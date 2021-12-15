@@ -1,0 +1,3037 @@
+[
+    {
+        "categories": {
+            "grains": [
+                "rice, risottos, quinoa"
+            ],
+            "meats": [
+                "Chicken, Chicken Noodle Soup, Chicken Curries"
+            ],
+            "seafood": [
+                "seafood Stew, Fish Curries"
+            ],
+            "vegetables": [
+                "Roasted vegetables, Braised Cabbage, Spinach, Greens, Eggplants, Lentils, Beans"
+            ],
+            "beverages": [
+                "golden milk,  Smoothies, tea"
+            ],
+            "soups": [
+                "Soup"
+            ],
+            "desserts": [
+                "cakes"
+            ],
+            "miscellaneous": [
+                "curry, eggs, basting liquids, sauces, Indian spice blends, Coconut Milk, Spice Rubs, Marinades, Eggs, Curries"
+            ],
+            "combinations": [
+                "Cinnamon, Chili, Fenugreek, Mustard Seed, Cilantro,  Galangal, Cloves, Lemongrass, Cumin, Black Pepper, Garlic, Coriainder, Ginger"
+            ]
+        },
+        "_id": "61003f06fd61692520e26a27",
+        "name": "Turmeric",
+        "description": "Astringent, Sweet and Woody or Musky",
+        "origin": "India",
+        "date": "2021-07-27T17:14:46.117Z",
+        "__v": 0,
+        "cuisines": "Austrian, British, European, German, Hungarian, Moroccan",
+        "img": "img/turmeric2.jpg",
+        "other": null,
+        "substitutes": ""
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice, Couscous"
+            ],
+            "meats": [
+                "Beef, Chili, Ground Beef, Lamb, Braised Ribs, Steak, Sausage, Chicken, Ground Turkey"
+            ],
+            "seafood": [
+                "Shrimp, Blackened Fish, Grilled Fish, Halibut, Cod"
+            ],
+            "vegetables": [
+                "Beans, Corn,Sautéed vegetables, Baked Beans,Baba Ghanouj, Roasted vegetables, Tomatoes, Hummus, Cabbage, Squash, Potatoes, Eggplant"
+            ],
+            "beverages": [
+                "Bloody Mary"
+            ],
+            "soups": [
+                ""
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Guacamole, Eggs, Lime, Garam Masala, Falafel, Za'atar Spice Blend,Marinades, Barbeque Sauce, Salsa, Spice Rubs,Soup"
+            ],
+            "combinations": [
+                "Allspice, Anise Seed, Bay Leaf, Cardamom, Chili, Cinnamon, Cloves, Coriander, Fennel Seed, Fenugreek, Garlic, Ginger, Mace, Nutmeg, Mustard Seed, Oregan, Paprika, Black Pepper, Thyme"
+            ]
+        },
+        "_id": "610040bffd61692520e26a2d",
+        "name": "Cumin ",
+        "description": "Bittersweet, Sweet",
+        "origin": "Turkey",
+        "date": "2021-07-27T17:22:07.113Z",
+        "__v": 0,
+        "img": "img/cumin2.jpg",
+        "cuisines": "American, Indian, Indonesian, Mexican, Moroccan, Portuguese, Spanish, Tex-Mex, Thai, Vietnamese",
+        "other": "",
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Noodles, Rice"
+            ],
+            "meats": [
+                "Chicken, Butter Chicken, Pork Chops, Roasts, Venison, Steak"
+            ],
+            "seafood": [
+                "Fish, Shellfish"
+            ],
+            "vegetables": [
+                "Baked Beans, Beets, Carrots, Sea Vegetables, Hard Squashes, Nappa Cabbage, Sweet Potatoes, Asparagus, Peppers,Bok Choy, Carrots, Cauliflower, Broccoli, Greens, Edamame, Eggplant, Fennel, Mushrooms, Onion, Potatoes, Hard Squash, Scallions, Spinach, Squash, Watercress, Zucchinis, Asian vegetable dishes, stir-fry"
+            ],
+            "beverages": [
+                "mulled wine, Ginger Beer, Ginger Ale, fresh juice, smoothies"
+            ],
+            "soups": [
+                ""
+            ],
+            "desserts": [
+                "Cake, Cookies, Gingerbread, Pies, Puddings, ginger snaps, Candy"
+            ],
+            "miscellaneous": [
+                "curry powder, Marinades, Chocolate, Coconut Milk, Compound Butter, Soy Sauce, Citrus, Coconut, Tea, Lemonade, Tamarind, Garam Masala, Curry,Stir-fry, Fruit Sauces, Fruit Salad, Lemon, Soy Sauce, Honey, Miso"
+            ],
+            "combinations": [
+                "Basil, Kaffir Lime Leaves, Galangal, Chili, Cilantro, Cumin, Coriander, Garlic, Lemongrass, Mint, Turmeric, Wasabi"
+            ]
+        },
+        "_id": "61006adddf7f316b6054880e",
+        "name": "Ginger",
+        "description": "Astringent, pungent, peppery",
+        "origin": "India",
+        "date": "2021-07-27T20:21:49.509Z",
+        "__v": 0,
+        "cuisines": "Arabic, Asian, Chinese, European, Indian, Indonesian, Japanese, Middle Eastern, Moroccan, North African, Russian, Thai, Vietnamese",
+        "img": "img/ginger.jpg",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [],
+            "meats": [],
+            "seafood": [],
+            "vegetables": [],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [],
+            "combinations": []
+        },
+        "_id": "6100b408d831116018f55ce4",
+        "name": "Lovage",
+        "description": "Lovage tastes like celery, with undertones of parsley and hint of anise.",
+        "origin": "native to Southern Europe but cultivated in western Asia, Germany, Italy, France, Czechoslovakia, Hungary, and the US.",
+        "date": "2021-07-28T01:34:00.287Z",
+        "__v": 0,
+        "img": "img/lovage.jpg",
+        "cuisines": null,
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads, Garlic Bread, Pizza, Stuffing, Pasta"
+            ],
+            "meats": [
+                "Grilled Meat, Hamburger, Beef, Meatloaf, Meatballs, Lamb, Roasts, Pork, Goat, Chicken,Pheasant, Turkey"
+            ],
+            "seafood": [
+                "Broiled Fish,Swordfish, Snapper, Shrimp, Cod, Mahi Mahi"
+            ],
+            "vegetables": [
+                "Broccoli, Cabbage, Cauliflower, Zucchini, Lentils,Tomato Sauces, Mushrooms, Tomatoes, Beans, Zucchini, Eggplant"
+            ],
+            "beverages": [],
+            "soups": [
+                "Stew, Vegetable Soup"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Vegetable Juice, Za'atar Spice Blend,Chimichurri,Quiche,Herbes de Provence, Eggs,Cheese Spreads, Cream Sauces, Tomato Sauce, Vinegrettes,Marinades, Salad Dressing"
+            ],
+            "combinations": [
+                "Basil, Bay Leaf, Chives, Garlic, Marjoram, Mint, Savory,Thyme"
+            ]
+        },
+        "_id": "6101bc7bd93ea7276c03b141",
+        "name": "Oregano",
+        "description": "Warm, lemony, herbal, peppery.",
+        "origin": "Turkey",
+        "date": "2021-07-28T20:22:19.109Z",
+        "__v": 0,
+        "cuisines": "Greek, Italian, Mediterranean, Mexican, Spanish, Tex-Mex, Turkish",
+        "img": "img/oregano.jpg",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing"
+            ],
+            "meats": [
+                "beef, roasts, hamburgers, meatloaf, spareribs, rabbit, chicken, turkey"
+            ],
+            "seafood": [
+                "broiled fish, mackerel, eel, trout, sole, flounder, oily fishes"
+            ],
+            "vegetables": [
+                "Artichokes, Beets, Turnips, Beans, Cabbage,  Onions, Carrots, Potatoes, Sauerkraut, Tomatoes, Mushrooms, Root vegetables, Peas"
+            ],
+            "beverages": [],
+            "soups": [
+                "Stews, Broth,"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Herbed Butters, Herbes de Provence, Potato Salad, Deviled Eggs,  Marinades, salad dressing, Tomato Sauce"
+            ],
+            "combinations": [
+                "Basil, Bay Leaf, Garlic, Marjoram, Oregano, Parsley, Rosemary, Sage, Tarragon,Thyme, Cumin, Mint"
+            ]
+        },
+        "_id": "6101be9b1bb20959303e74e5",
+        "name": "savory (summer)",
+        "description": "Pungent, bitter",
+        "origin": "Albania",
+        "date": "2021-07-28T20:31:23.656Z",
+        "__v": 0,
+        "cuisines": "Mediterranean, classic British and German ",
+        "img": "img/savory.jpg", 
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Naan"
+            ],
+            "meats": [
+                "Meat Curries",
+                "Meatballs",
+                "Braised Meat",
+                "Grilled Meat",
+                "Meat Stews"
+            ],
+            "seafood": [
+                "Fish Curries",
+                "Pickled Fish",
+                "Grilled Fish"
+            ],
+            "vegetables": [
+                "Lentils",
+                "Beans",
+                "Mushrooms",
+                "Okra",
+                "Vegetable Stews",
+                "Sambar",
+                "Chard",
+                "Cabbage",
+                "Potatoes",
+                "Onions",
+                "Cauliflower",
+                "Spinach",
+                "Green Beans"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Salad Dressing",
+                "Mango Pickle",
+                "Yogurt Marinade",
+                "Worcesterchire Sauce",
+                "Soup",
+                "Chutney",
+                "Ghee",
+                "Tamarind",
+                "Welsh Rarebit",
+                "Rasam",
+                "Eggs"
+            ],
+            "combinations": [
+                "Turmeric",
+                "Coriander",
+                "Cilantro",
+                "Cardomom",
+                "Fenugreek",
+                "Fennel",
+                "Mustard Seed",
+                "Cumin",
+                "Curry Leaves",
+                "Ginger",
+                "Garlic",
+                "Chili"
+            ]
+        },
+        "_id": "61043b4241129f64a04040d7",
+        "name": "Asafoetida",
+        "description": "",
+        "img": "img/asafoetida.jpg",
+        "origin": "India",
+        "date": "2021-07-30T17:47:46.578Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cookies,Pie,Pudding,Spice Cake,Rice Pilaf, ginger bread"
+            ],
+            "meats": [
+                "Roasts",
+                "Ham",
+                "Jerky",
+                "Braised meats",
+                "Beef",
+                "Smoked meats",
+                "Wild Game"
+            ],
+            "seafood": [
+                "Shrimp",
+                "seafood Boil",
+                "Red Snapper",
+                "Escovitch Fish"
+            ],
+            "vegetables": [
+                "Baked Beans,Beets,Hard Squashes,Carrots,Squash,Spinach,Root vegetables,Sweet Potatoes,Eggplants, pickles"
+            ],
+            "beverages": [],
+            "soups": [
+                "Chicken Soup,Jambalaya,Pea Soup,Minestrone,"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Jerk Seasoning, garam masala, marinades, chutney, Fruit Salad"
+            ],
+            "combinations": [
+                "Chili",
+                "Cloves",
+                "Coriander",
+                "Garlic",
+                "Ginger",
+                "Mace",
+                "Mustard",
+                " Black Pepper",
+                "Rosemary",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4241129f64a04040d9",
+        "name": "Allspice",
+        "description": "Pungent, Sweet, Warm  and Earthy",
+        "img": "img/allspice.jpg",
+        "origin": " native to the West Indies and the Caribbean",
+        "date": "2021-07-30T17:47:46.663Z",
+        "__v": 0,
+        "cuisines": "Caribbean, English, European, Indian, Jamaican, Mediterranean, Mexican, Middle Eastern, North American, West Indies",
+        "other": "pimenta, Jamaica pepper, Turkish yenibahar, or newspice",
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Garlic Bread",
+                "Pasta",
+                "Pizza",
+                "Rice",
+                "Polenta"
+            ],
+            "meats": [
+                "Beef",
+                "Lamb",
+                "Liver"
+            ],
+            "seafood": [
+                "Baked Salmon",
+                "Mahi Mahi",
+                "Sole",
+                "Halibut",
+                "Trout",
+                "Crabmeat",
+                "Shrimp",
+                "Lobster"
+            ],
+            "vegetables": [
+                "Broccoli",
+                "Green Beans",
+                "Carrots",
+                "Eggplant",
+                "Peas",
+                "Tomatoes",
+                "Potatoes",
+                "Zucchini"
+            ],
+            "beverages": [
+                "Bloody Mary, vodka, pomegranate juice"
+            ],
+            "soups": [
+                "soups, stews"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Eggs",
+                "Caprese Salad",
+                "Butter Compound",
+                "Lemon",
+                "Cocktails",
+                "Mojitos",
+                "Cheese Dishes",
+                "Pesto",
+                "Strawberries",
+                "Peaches",
+                "Tomato Sauces",
+                "Cream Sauces"
+            ],
+            "combinations": [
+                "Chives",
+                "Garlic",
+                "Marjoram",
+                "Oregano",
+                "Mint",
+                "Parsley",
+                "Rosemary",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4241129f64a04040dd",
+        "name": "Basil",
+        "description": "Sweet, with a savory kick",
+        "img": "img/basil.jpg",
+        "origin": "Egypt",
+        "date": "2021-07-30T17:47:46.850Z",
+        "__v": 0,
+        "cuisines": "Asian, Cambodian, Italian, Mediterranean, Thai, Vietnamese",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads",
+                "Cake",
+                "Cookies",
+                "Candy",
+                "Biscotti",
+                "Ginger Bread"
+            ],
+            "meats": [
+                "Beef Stew,Sausage,Pork Roast,Veal, poultry, game birds"
+            ],
+            "seafood": [
+                "Grilled Fish",
+                "Cod",
+                "Shellfish",
+                "Fish Stew",
+                "Scallops",
+                "Steamed Mussels"
+            ],
+            "vegetables": [
+                "Pickles",
+                "Beans",
+                "Fermented vegetables",
+                "Hard Squashes"
+            ],
+            "beverages": [],
+            "soups": [
+                "Stews"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Stewed Fruit,Mulled Wine,Citrus,Spaghetti Sauce,Spiced Apples,Figs, curries, fruit cobbler"
+            ],
+            "combinations": [
+                "Allspice",
+                "Cardamom",
+                "Cinnamon",
+                "Cloves",
+                "Cumin",
+                "Fennel",
+                "Garlic",
+                "Nutmeg",
+                "Black Pepper",
+                "Star Anise"
+            ]
+        },
+        "_id": "61043b4241129f64a04040db",
+        "name": "Anise",
+        "description": "Licorice-like, Sweet",
+        "img": "img/anise.jpg",
+        "origin": "\tEgypt",
+        "date": "2021-07-30T17:47:46.752Z",
+        "__v": 0,
+        "cuisines": "Chinese, French, Indonesian, Mediterranean, Moroccan",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Risotto",
+                "Rice",
+                "Red Beans and Rice",
+                "Pasta e Fagioli "
+            ],
+            "meats": [
+                "Beef",
+                "Veal",
+                "Pork Roast",
+                "Braised Meat",
+                "Meat Sauce",
+                "Pot Roast"
+            ],
+            "seafood": [
+                "Cod",
+                "Tilapia",
+                "seafood Gumbo",
+                "Poached Fish",
+                "Fish Soup",
+                "Chowder",
+                "Fish en Papillote"
+            ],
+            "vegetables": [
+                "Beans,Steamed vegetables,Pickles, baked potato"
+            ],
+            "beverages": [],
+            "soups": [
+                "soups"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Soups,Béchemel Sauce,Stock,Brine,Marinades,Chowders,Tomato Sauces, Bouquet Garn"
+            ],
+            "combinations": [
+                "Allspice",
+                "Garlic",
+                "Juniper",
+                "Marjoram",
+                "Oregano",
+                "Parsley",
+                "Sage",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4241129f64a04040df",
+        "name": "Bay Leaves",
+        "description": "Bitter or Astringent, Sweet",
+        "img": "img/bay-leaves.jpg",
+        "origin": "India",
+        "date": "2021-07-30T17:47:46.938Z",
+        "__v": 0,
+        "cuisines": "Filipino, Pakistani, Indian, American, French, Mediterranean, Moroccan, Turkish",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cake",
+                "Ravioli",
+                "Risotto"
+            ],
+            "meats": [],
+            "seafood": [
+                "Fish",
+                "Shellfish"
+            ],
+            "vegetables": [
+                "Spinach",
+                "Chard",
+                "Sauteed Borage",
+                "Borage Fritters",
+                "Nettles",
+                "Gazpacho"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Jelly",
+                "Yogurt",
+                "Vinegar",
+                "Eggs",
+                "Ricotta",
+                "Soup",
+                "Tea",
+                "Fruit Salad",
+                "Pimms Cup",
+                "Cream Cheese",
+                "Preserves",
+                "Candied Borage Flowers",
+                "Tomato Juice",
+                "Cocktail",
+                "Salad",
+                "Iced Tea",
+                "Lemonade"
+            ],
+            "combinations": [
+                "Arugula",
+                "Watercress",
+                "Garlic",
+                "Dill",
+                "Mint",
+                "Chervil",
+                "Parsley"
+            ]
+        },
+        "_id": "61043b4341129f64a04040e1",
+        "name": "Borage",
+        "description": "",
+        "img": "img/borage.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:47.030Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads",
+                "Pumpernickel",
+                "Rye Bread",
+                "Scones",
+                "Biscuits",
+                "Flat Bread",
+                "Rice"
+            ],
+            "meats": [
+                "Pork Belly, pork roast, Brisket, Braised Meat, Spareribs, Sausages, duck, goose"
+            ],
+            "seafood": [
+                "Lobster",
+                "Salmon"
+            ],
+            "vegetables": [
+                "Asparagus,Cabbage,Carrots,Chard,Zucchini,Beets,Turnips,Potatoes,Tomatoes,Onions, ColeSlaw,sauerkraut,"
+            ],
+            "beverages": [],
+            "soups": [
+                "Soups"
+            ],
+            "desserts": [
+                "cake"
+            ],
+            "miscellaneous": [
+                "Marinades,Stews,Apples,Goulash, baked brie, fondue, mornay sauce, harissa spice blend"
+            ],
+            "combinations": [
+                "Dill",
+                "Parsley",
+                "Cumin",
+                "Coriander",
+                "Garlic"
+            ]
+        },
+        "_id": "61043b4341129f64a04040e9",
+        "name": "Caraway Seeds",
+        "description": "Astringent, Camphorous",
+        "img": "img/caraway.jpg",
+        "origin": "Turkey",
+        "date": "2021-07-30T17:47:47.544Z",
+        "__v": 0,
+        "cuisines": "Austrian, British, European, German, Hungarian, Moroccan",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Pizza",
+                "Rice",
+                "Pasta"
+            ],
+            "meats": [
+                "Pork Chops",
+                "Pot Roast",
+                "Stews"
+            ],
+            "seafood": [
+                "seafood Salad"
+            ],
+            "vegetables": [
+                "Corn, Cauliflower,Potatoes, Potato Salad, Coleslaw"
+            ],
+            "beverages": [],
+            "soups": [
+                "stews, chili, or soups"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Macaroni Salad, salsa"
+            ],
+            "combinations": []
+        },
+        "_id": "61043b4341129f64a04040eb",
+        "name": "Cayenne",
+        "description": "",
+        "img": "img/cayenne.jpg",
+        "origin": "India",
+        "date": "2021-07-30T17:47:47.562Z",
+        "__v": 0,
+        "cuisines": "Asian, Cajun, Caribbean, Chinese, Indian, Mexican, Pakistani, Thai",
+        "other": "bird pepper, cow-horn pepper, Guinea spice, red pepper",
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Bread",
+                "Stuffing"
+            ],
+            "meats": [
+                "Ground Meat",
+                "Meat Loaf",
+                "Sausage",
+                "Corned Beef",
+                "Smoked Meat"
+            ],
+            "seafood": [
+                "Seafood Boil",
+                "Tuna Salad",
+                "Chicken Noodle Soup"
+            ],
+            "vegetables": [
+                "Bread and Butter Pickles,Fermented vegetables,Salads, potatoes, tomatoes"
+            ],
+            "beverages": [
+                "Bloody Mary"
+            ],
+            "soups": [
+                "soups, stews"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Celery Salt, Deviled Eggs,Spice Rub,Barbeque Sauce,Salad Dressing, cream sauces"
+            ],
+            "combinations": [
+                "Turmeric",
+                "Sage",
+                "Cumin",
+                "Ginger"
+            ]
+        },
+        "_id": "61043b4341129f64a04040ed",
+        "name": "Celery Seed",
+        "description": "Astringent, Pungent",
+        "img": "img/celery-seeds.jpg",
+        "origin": "India",
+        "date": "2021-07-30T17:47:47.567Z",
+        "__v": 0,
+        "cuisines": "American, Cajun, Creole, German, Italian, Russian",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Pasta Primavera,Herbed Rice,Risotto, bread"
+            ],
+            "meats": [
+                "Steak,Lamb Chops, grilled lamb"
+            ],
+            "seafood": [
+                "Lobster,White Fish,Salmon,Grilled Oysters,Red Snapper,Seared Tuna,Sea Bass, smoked fish"
+            ],
+            "vegetables": [
+                "Mushrooms",
+                "Squash",
+                "Peas",
+                "Beets",
+                " New Potatoes",
+                "Green Beans",
+                "Cabbage",
+                "Green Salad",
+                "Carrots",
+                "Tomatoes",
+                "Asparagus",
+                "Radishes",
+                "Celeriac",
+                "Roasted Fennel",
+                "Potato Salad",
+                "Radish"
+            ],
+            "beverages": [],
+            "soups": [
+                "cream-based soup"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Eggs",
+                "Vinegrette",
+                "Goat Cheese",
+                "Butter Sauce",
+                "Mayonnaise",
+                "Omelettes",
+                "Cream Sauces",
+                "Fines Herbes",
+                "Béarnaise Sauce"
+            ],
+            "combinations": [
+                "Chives,Dill,Parsley,Tarragon,Marjarom,Dandelion,Sorrel, saffron"
+            ]
+        },
+        "_id": "61043b4341129f64a04040ef",
+        "name": "Chervil",
+        "description": "sweet",
+        "img": "img/chervil.jpg",
+        "origin": "Netherlands",
+        "date": "2021-07-30T17:47:47.572Z",
+        "__v": 0,
+        "cuisines": "European, French",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Bread,Basmati Rice, pilafs, biscuits"
+            ],
+            "meats": [
+                "Curried meats,Stewed meats,Lamb, chicken adobo, duck, butter chicken, pork dishes, Sheek Kebabs"
+            ],
+            "seafood": [
+                "Curried Fish, shellfish, pickled herring"
+            ],
+            "vegetables": [
+                "Hard Squashes,Sweet Potatoes,Lentils, braised vegetables, pickles"
+            ],
+            "beverages": [
+                "Coffee,Tea,Mulled Wine, indian spiced teas, russian liquers, arab and Turkish coffee"
+            ],
+            "soups": [
+                "meaty stews"
+            ],
+            "desserts": [
+                "Cake,Cookies,Pastry,Rice Pudding, coffee cake, Scandinavian aquavit, middle eastern desserts"
+            ],
+            "miscellaneous": [
+                "Jelly,Chocolate,Garam Masala,Fruit Salad,Citrus,Apples,Pears, curry"
+            ],
+            "combinations": [
+                "Ginger",
+                "Caraway",
+                "Chili",
+                "Cinnamon",
+                "Cloves",
+                "Cumin",
+                "Paprika"
+            ]
+        },
+        "_id": "61043b4341129f64a04040f1",
+        "name": "Cardomon",
+        "description": "Citrus, Pungent, Smoky, Warm, Earthy",
+        "img": "img/cardamon.png",
+        "origin": "India ",
+        "date": "2021-07-30T17:47:47.577Z",
+        "__v": 0,
+        "cuisines": "Asian, Indian, Indonesian, North African, Scandinavian",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing",
+                "Scones",
+                "Pasta",
+                "Biscuits"
+            ],
+            "meats": [
+                "Beef",
+                "Lamb",
+                "Pork",
+                "Veal"
+            ],
+            "seafood": [
+                "White Fish",
+                "Tuna Salad",
+                "Filet of Sole",
+                "Lobster",
+                "Red Snapper",
+                "seafood chowder",
+                "Seafood Salad"
+            ],
+            "vegetables": [
+                "Green Beans",
+                "Asparagus",
+                "Mashed Potatoes",
+                "Peas",
+                "Baked Potatoes",
+                "Peas",
+                "Potato Salad"
+            ],
+            "beverages": [],
+            "soups": [
+                "soups"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Eggs,Fines Herbes,Vinegrette,Soups,Lemon,Egg Salad,Deviled Eggs,Cheese Dishes,Cream Sauces,Mayonnaise,Compound Butters"
+            ],
+            "combinations": [
+                "Basil",
+                "Chervil",
+                "Cilantro",
+                "Cress",
+                "Dill",
+                "Lemon Balm",
+                "Marjoram",
+                "Nasturtium",
+                "Oregano",
+                "Parsley",
+                "Sorrel",
+                "Tarragon",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4341129f64a04040f3",
+        "name": "Chives",
+        "description": "Hot, Pungent",
+        "img": "img/chives.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:47.604Z",
+        "__v": 0,
+        "cuisines": "American, Asian, Chinese, European, Indian",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads,Rice,Oatmeal"
+            ],
+            "meats": [
+                "Ham",
+                "Pork Chops",
+                "Lamb",
+                "Bolognese"
+            ],
+            "seafood": [],
+            "vegetables": [
+                "Carrots",
+                "Hard Squashes",
+                "Spinach",
+                "Eggplant",
+                "Beets",
+                "Sweet Potatoes"
+            ],
+            "beverages": [
+                "Coffee,Mulled Wine,Cider,Eggnog,Chai"
+            ],
+            "soups": [
+                "Stews"
+            ],
+            "desserts": [
+                "cookies, cakes, puddings, pie, custard"
+            ],
+            "miscellaneous": [
+                "Fruit Salad,Chocolate,Garam Masala, Fruit, Jerk Seasoning, Chinese Five Spice"
+            ],
+            "combinations": [
+                "Cardamom",
+                "Cloves",
+                "Coriander",
+                "Star Anise",
+                "Cumin",
+                "Ginger",
+                "Mace",
+                "Nutmeg",
+                "Tamarind"
+            ]
+        },
+        "_id": "61043b4441129f64a04040fb",
+        "name": "Cinnamon",
+        "description": "Bitter or Astringent, Pungent, Sweet",
+        "img":"img/cinnamon.jpg",
+        "origin": "Sri Lanka",
+        "date": "2021-07-30T17:47:48.046Z",
+        "__v": 0,
+        "cuisines": "American, Chilean, Indian, South American, Spanish, Sri Lankan",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                ",Biryani"
+            ],
+            "meats": [
+                "Ham,Pork Chops,Sauerbaten,Steak,Lamb Tangine, Meat Sauce"
+            ],
+            "seafood": [],
+            "vegetables": [
+                "Baked Beans",
+                "Carrots",
+                "Onions",
+                "Hard Squash",
+                "Lentils",
+                "Beets",
+                "Sweet Potatoes"
+            ],
+            "beverages": [
+                "hot drinks, mulled wine, spiced tea, or hot cider"
+            ],
+            "soups": [
+                "Pea Soup,Vegetable Soup, beef stew, chicken soup"
+            ],
+            "desserts": [
+                "Cakes,Cookies,Custards,Fruit Pie,Pumpkin Pie,Puddings, stewed cranberries"
+            ],
+            "miscellaneous": [
+                "Clam Chowder,Béchamel Sauce,Garam Masala,Pho,Apples,Oranges,Fruit Salad ,Marinades,"
+            ],
+            "combinations": [
+                "Cinnamon",
+                "Cardamom",
+                "Bay Leaf",
+                "Fennel",
+                "Ginger",
+                "Vanilla",
+                "Basil",
+                "Allspice",
+                "Sichuan Peppercorns",
+                "Star Anise",
+                "Nutmeg"
+            ]
+        },
+        "_id": "61043b4441129f64a04040fd",
+        "name": "Cloves",
+        "description": "Pungent, Sweet",
+        "img": "img/cloves.jpg",
+        "origin": "Indonesia",
+        "date": "2021-07-30T17:47:48.056Z",
+        "__v": 0,
+        "cuisines": "all world cuisines",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "spiced biscuits"
+            ],
+            "meats": [
+                "sausages, meats"
+            ],
+            "seafood": [],
+            "vegetables": [
+                "vegetables"
+            ],
+            "beverages": [
+                "gin"
+            ],
+            "soups": [],
+            "desserts": [
+                "gingerbread"
+            ],
+            "miscellaneous": [
+                "curries, Moroccan ras el hanout, Morroccan tagine"
+            ],
+            "combinations": []
+        },
+        "_id": "61043b4441129f64a04040ff",
+        "name": "Cubeb Pepper",
+        "description": "peppery, bitter, pungent flavor with a touch of allspice and nutmeg",
+        "img": "img/cubeb-pepper.jpg",
+        "origin": "Java",
+        "date": "2021-07-30T17:47:48.083Z",
+        "__v": 0,
+        "cuisines": "Arabic, Asian, Chinese, Indian, Indonesian, Moroccan",
+        "other": "Java Pepper, Tailed Pepper",
+        "substitutes": "combination of allspice and black pepper, grains of paradise"
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing",
+                "Biscuits",
+                "Buns",
+                "Gingerbread"
+            ],
+            "meats": [
+                "Beef,Lamb,Goat,Ham,Italian Sausage, Middle Eastern lamb and beef stew, Poultry"
+            ],
+            "seafood": [
+                "Shrimp",
+                "White Fish"
+            ],
+            "vegetables": [
+                "Potatoes",
+                "Lentils",
+                "Onions",
+                "Green Beans",
+                "Cauliflower",
+                "Carrots",
+                "Beans",
+                "Beets",
+                "Cabbage",
+                "Parsnip",
+                "Pickles",
+                "Sauerkraut",
+                "Tomatoes"
+            ],
+            "beverages": [],
+            "soups": [
+                "stews, soup"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "Falafel,Spice Rub,Za'atar Spice Blend,Curry,Mole,Deviled Eggs, pickling spice, pumpkin and apple pie spice"
+            ],
+            "combinations": [
+                "Cinnamon",
+                "Cloves",
+                "Chili",
+                "Cumin",
+                "Mace",
+                "Garlic",
+                "Parsley",
+                "Ginger",
+                "Fennel",
+                "Nutmeg"
+            ]
+        },
+        "_id": "61043b4441129f64a0404101",
+        "name": "Coriander",
+        "description": "Bitter or Astringent, Pungent",
+        "img": "img/coriander-seeds.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.091Z",
+        "__v": 0,
+        "cuisines": "Indian, Latin American, Mediterranean, Mexican, Middle Eastern, Moroccan, North African, North American, Southeast Asia, Southwestern American, Vietnamese",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads",
+                "Couscous",
+                "Bulgar",
+                "Wheatberries",
+                "Quinoa",
+                "Rice",
+                "Pasta Salad"
+            ],
+            "meats": [
+                "Lamb",
+                "Veal",
+                "Burgers",
+                "Beef Stroganoff"
+            ],
+            "seafood": [
+                "Salmon,White Fish,Baked Fish,Salmon Burgers,Cod,Mahi Mahi, clams crab, sccallops"
+            ],
+            "vegetables": [
+                "Fermented vegetables,Carrots,Roasted vegetables,Spinach,Peas,Beets,Potatoes,Zucchini, root vegetables,Pickles, beets, celery, fava beans, cauliflower, kohlrabi, cucumbers"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Avocado",
+                "Feta",
+                "Lemon",
+                "Chicken Salad",
+                "Eggs",
+                "Tzatziki",
+                "Ranch Dressing",
+                "Cucumber Salad",
+                "Egg Salad",
+                "Green Salads",
+                "Seafood Salad",
+                "White Sauces"
+            ],
+            "combinations": [
+                "Basil",
+                "Capers",
+                "Chives",
+                "Garlic",
+                "Horseradish",
+                "Mint",
+                "Mustard",
+                "Paprika",
+                "Parsley",
+                "Sorrel",
+                "Tarragon"
+            ]
+        },
+        "_id": "61043b4441129f64a0404103",
+        "name": "Dill Weed",
+        "description": "Astringent, Sweet",
+        "img": "img/dillweed.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.117Z",
+        "__v": 0,
+        "cuisines": "European, German, Greek, Mediterranean, Middle Eastern, North American, Russian, Scandinavian, Turkish",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Pozole",
+                "Tamales"
+            ],
+            "meats": [
+                "Shredded Beef",
+                "Beef Soup",
+                "Stewed Meat"
+            ],
+            "seafood": [
+                "Crab Cakes",
+                "Fish",
+                "Shrimp Soup"
+            ],
+            "vegetables": [
+                "Mushrooms",
+                "Corn",
+                "Squash",
+                "Beans",
+                "Spinach",
+                "Potatoes",
+                "Black Beans",
+                "Pinto Beans"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Quesadilla",
+                "Stews",
+                "Enchiladas",
+                "Avocado Leaf"
+            ],
+            "combinations": [
+                "Mexican Oregano",
+                "Cilantro",
+                "Chilies"
+            ]
+        },
+        "_id": "61043b4441129f64a040410a",
+        "name": "Epazote",
+        "description": "",
+        "img": "img/epazote2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.529Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads,Risotto"
+            ],
+            "meats": [
+                "Meat Stews,Sausage,Pork,Bolognese,Prosciutto,Veal, game meats"
+            ],
+            "seafood": [
+                "Salmon",
+                "Sardines",
+                "Crab",
+                "Shellfish",
+                "Halibut",
+                "Shrimp",
+                "Mussels",
+                "seafood Salad"
+            ],
+            "vegetables": [
+                "Roasted vegetables,Caramelized Onions,Roasted Fennel,Braised Fennel,Grilled Fennel,Radish,Beets,Eggplant,Bitter Greens,Cabbage,Potatoes,Beans,Spinach,Tomatoes, lentils"
+            ],
+            "beverages": [
+                "spiced tea"
+            ],
+            "soups": [],
+            "desserts": [
+                "Cakes,Cookies"
+            ],
+            "miscellaneous": [
+                " cheese spreads, salad dressings, butter, Marinades, Apple,Pear,Citrus,Bleu Cheese,Tomato Soup,Antipasto,Spaghetti, Shaved Salad"
+            ],
+            "combinations": [
+                "Basil",
+                "Cilantro",
+                "Chervil",
+                "Chives",
+                "Garlic",
+                "Lemon Balm",
+                "Oregano",
+                "Parsley",
+                "Sage",
+                "Shallots",
+                "Tarragon"
+            ]
+        },
+        "_id": "61043b4441129f64a040410d",
+        "name": "Fennel",
+        "description": "Sweet, Warm & Earthy",
+        "img": "img/fennel-seeds.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.549Z",
+        "__v": 0,
+        "cuisines": "American, Asian, Chinese, French, Jamaican, Mediterranean, Moroccan",
+        "other": null,
+        "substitutes": null
+    },
+    {
+        "categories": {
+            "grains": [
+                "Fry Bread",
+                "Rolls"
+            ],
+            "meats": [
+                "Goat",
+                "Lamb",
+                "Slow-Cooked Meat"
+            ],
+            "seafood": [
+                "Butter Chicken"
+            ],
+            "vegetables": [
+                "Leafy Greens",
+                "Lentils",
+                "Tomatoes",
+                "Beans",
+                "Okra",
+                "Beets",
+                "Potatoes",
+                "Peas"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Lime Pickles",
+                "Clarified Butter",
+                "Lime",
+                "Lemon",
+                "Dry Rubs",
+                "Indian Curry"
+            ],
+            "combinations": [
+                "Cardamom",
+                "Coriander",
+                "Cumin",
+                "Ginger",
+                "Fennel",
+                "Mustard Seeds",
+                "Turmeric",
+                "Paprika"
+            ]
+        },
+        "_id": "61043b4441129f64a040410f",
+        "name": "Fenugreek",
+        "description": "",
+        "img": "img/fenugreek.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.581Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Noodles"
+            ],
+            "meats": [
+                "Beef",
+                "Pork"
+            ],
+            "seafood": [
+                "Fish",
+                "Shellfish"
+            ],
+            "vegetables": [
+                "Stir-fry",
+                "Mushroom",
+                "Shallot",
+                "Sea vegetables",
+                "Bean Sprouts",
+                "Green Beans",
+                "Sweet Potatoes",
+                "Squashes",
+                "Cabbage",
+                "Napa Cabbage",
+                "Carrots",
+                "Long Beans"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Thai Curries",
+                "Candy",
+                "Satay Sauce",
+                "Curry Paste",
+                "Soup",
+                "Lemonade",
+                "Coconut Milk",
+                "Vinegar",
+                "Vodka",
+                "Sambals",
+                "Citrus",
+                "Tamarind",
+                "Tom Yum Soup",
+                "Soy Sauce",
+                "Coconut",
+                "Tea"
+            ],
+            "combinations": [
+                "Kaffir Lime Leaves",
+                "Bay Leaves",
+                "Ginger",
+                "Cilantro",
+                "Basil",
+                "Turmeric",
+                "Chili",
+                "Lemongrass",
+                "Coriander",
+                "Cumin"
+            ]
+        },
+        "_id": "61043b4441129f64a0404111",
+        "name": "Galangal",
+        "description": "",
+        "img": "img/galangal2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.587Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Gingerbread",
+                "Spice Cake",
+                "Rice",
+                "Quinoa",
+                "Couscous",
+                "Pie",
+                "Cookies"
+            ],
+            "meats": [
+                "Lamb Tangine",
+                "Roasted Meat",
+                "Lamb",
+                "Kebabs",
+                "Grilled Steak"
+            ],
+            "seafood": [
+                "Shrimp",
+                "Grilled Fish",
+                "Mussels",
+                "Cod",
+                "Seared Tuna"
+            ],
+            "vegetables": [
+                "Roasted vegetables",
+                "Peanut Soup",
+                "Lentils",
+                "Beans",
+                "Potato Salad",
+                "Greens",
+                "Spinach",
+                "Okra",
+                "Hard Squashes",
+                "Sweet Potatoes",
+                "Squash",
+                "Tomatoes",
+                "Eggplant"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Curries",
+                "Custard",
+                "Marinades",
+                "Eggs",
+                "Vinegrettes",
+                "Qalat Daqqa",
+                "Apples",
+                "Ras el Hanout",
+                "Spice Rubs",
+                "Lemons",
+                "Mulled Wine",
+                "Rich Sauces",
+                "Beer"
+            ],
+            "combinations": [
+                "Thyme",
+                "Rosemary",
+                "Sage",
+                "Nutmeg",
+                "Mace",
+                "Cinnamon",
+                "Garlic",
+                "Turmeric",
+                "Cayenne",
+                "Ginger",
+                "Cardamom",
+                "Allspice",
+                "Cloves"
+            ]
+        },
+        "_id": "61043b4441129f64a0404113",
+        "name": "Grains of Paradise",
+        "description": "",
+        "img": "img/grains-of-paradise2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:48.640Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing",
+                "Fruitcake"
+            ],
+            "meats": [
+                "Pork",
+                "Rabbit",
+                "Venison",
+                "Pork Belly",
+                "Beef",
+                "Wild Game",
+                "Smoked Meat",
+                "Pate",
+                "Lamb",
+                "Corned Beef",
+                "Sauerbraten"
+            ],
+            "seafood": [
+                "Cured Salmon",
+                "Salmon"
+            ],
+            "vegetables": [
+                "Sauerkraut",
+                "Cabbage",
+                "Onions",
+                "Leeks",
+                "Pickles",
+                "Potatoes"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Gin",
+                "Cocktails",
+                "Marinades",
+                "Vinegar"
+            ],
+            "combinations": [
+                "Bay Leaf",
+                "Caraway",
+                "Garlic",
+                "Marjoram",
+                "Peppercorns",
+                "Rosemary",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4541129f64a040411a",
+        "name": "Juniper Berry",
+        "description": "",
+        "img": "img/juniper-berry.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.018Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Noodles",
+                "Rice",
+                "Dumplings"
+            ],
+            "meats": [
+                "Pork Chops",
+                "Ribs",
+                "Grilled Meat",
+                "Lamb Chops"
+            ],
+            "seafood": [
+                "Ocean-Fresh Fish",
+                "Mussels",
+                "Shrimp",
+                "Tom Yum Soup",
+                "Chicken Noodle Soup"
+            ],
+            "vegetables": [
+                "Stir-Fry",
+                "Shallots",
+                "Scallions"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Thai Curries",
+                "Coconut Milk",
+                "Mojitos",
+                "Tamarind",
+                "Citrus",
+                "Cherries",
+                "Tea",
+                "Kaffir Leaf",
+                "Marinade"
+            ],
+            "combinations": [
+                "Coriander",
+                "Tea",
+                "Lemon Balm Schnapps",
+                "Ginger",
+                "Basil",
+                "Turmeric",
+                "Galangal",
+                "Thai Basil",
+                "Garlic",
+                "Mint",
+                "Lime",
+                "Chili"
+            ]
+        },
+        "_id": "61043b4541129f64a040411d",
+        "name": "Lemongrass",
+        "description": "",
+        "img": "img/lemongrass.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.052Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Stuffing",
+                "Cookies",
+                "Cake"
+            ],
+            "meats": [
+                "No Recommendations"
+            ],
+            "seafood": [
+                "Fish"
+            ],
+            "vegetables": [
+                "Salad",
+                "Peas",
+                "Potato Salad",
+                "Mushrooms",
+                "Squash",
+                "Cucumber",
+                "Potatoes"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Tea",
+                "Soft Cheese",
+                "Simple Syrup",
+                "Cocktails",
+                "Lemon Balm Pesto",
+                "Butter Sauces",
+                "Custards",
+                "Jam",
+                "Fruit Salad",
+                "Custards",
+                "Casseroles",
+                "Sorbets",
+                "Salad Dressing",
+                "Marinades"
+            ],
+            "combinations": [
+                "Chervil",
+                "Basil",
+                "Mint",
+                "Parsley",
+                "Rosemary",
+                "Nasturiums",
+                "Chives",
+                "Dill",
+                "Fennel",
+                "Mint",
+                "Parsley",
+                "Shallots"
+            ]
+        },
+        "_id": "61043b4541129f64a040411f",
+        "name": "Lemon Balm",
+        "description": "",
+        "img": "img/lemonbalm.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.058Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Oatmeal",
+                "Cookies",
+                "Cakes"
+            ],
+            "meats": [
+                "Pork",
+                "Venison",
+                "Beef",
+                "Beef Stock",
+                "Braised Meat"
+            ],
+            "seafood": [
+                "Cod",
+                "Turbot",
+                "Monkfish",
+                "Octopus"
+            ],
+            "vegetables": [
+                "Sweet Potatoes"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Rhubarb",
+                "Raspberries",
+                "Chocolate",
+                "Jams",
+                "Tea",
+                "Candied Dates",
+                "Beer",
+                "Sambuca",
+                "Black Currant",
+                "Compotes",
+                "Confectionaries",
+                "Panna Cotta",
+                "Ice Cream"
+            ],
+            "combinations": [
+                "Ginger",
+                "Mint",
+                "Cloves",
+                "Coriander",
+                "Fennel",
+                "Cinnamon",
+                "Star Anise"
+            ]
+        },
+        "_id": "61043b4541129f64a0404121",
+        "name": "Liquorice",
+        "description": "",
+        "img": "img/licorice.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.084Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cookies",
+                "Doughnuts",
+                "Pies",
+                "Cakes",
+                "Stuffing"
+            ],
+            "meats": [
+                "Pork",
+                "Roasted Meat",
+                "Sausage",
+                "Veal",
+                "Beef",
+                "Ham",
+                "Barbeque Ribs",
+                "Venison",
+                "Rabbit",
+                "Pâté"
+            ],
+            "seafood": [
+                "White Fish",
+                "Shellfish"
+            ],
+            "vegetables": [
+                "Root vegetables",
+                "Green Beans",
+                "Broccoli",
+                "Brussels Sprouts",
+                "Cabbage",
+                "Carrots",
+                "Cauliflower",
+                "Corn",
+                "Eggplant",
+                "Greens",
+                "Parsnips",
+                "Spinach",
+                "Hard Squashes",
+                "Sweet Potatoes",
+                "Turnips"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Spice Blends",
+                "Cappucino",
+                "Fondue",
+                "Chutney",
+                "Cocktails",
+                "Béchamel Sauce",
+                "Cherries",
+                "Pudding",
+                "Chocolate",
+                "Custard",
+                "Fruit",
+                "Curries"
+            ],
+            "combinations": [
+                "Nutmeg",
+                "Allspice",
+                "Cardamom",
+                "Paprika",
+                "Cinnamon",
+                "Cloves",
+                "Marjoram",
+                "Sage",
+                "Coriander",
+                "Ginger",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4541129f64a0404123",
+        "name": "Mace",
+        "description": "",
+        "img": "img/mace.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.144Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing",
+                "Lasagna",
+                "Pizza",
+                "Breads",
+                "Scones"
+            ],
+            "meats": [
+                "Lamb",
+                "Liver Pate",
+                "Barbequed meats",
+                "Meatloaf",
+                "Pot Roast",
+                "Venison",
+                "Pork",
+                "Sausages",
+                "Meatballs",
+                "Bolognaise",
+                "Stew"
+            ],
+            "seafood": [
+                "Crab Meat",
+                "Grilled Fish",
+                "Halibut",
+                "Anchovies",
+                "Creamed Fish",
+                "Salmon",
+                "Shrimp",
+                "Scallops"
+            ],
+            "vegetables": [
+                "Brussel Sprouts",
+                "Artichokes",
+                "Beans",
+                "Green Beans",
+                "Cauliflower",
+                "Corn",
+                "Eggplant",
+                "Spinach",
+                "Squash",
+                "Tomatoes",
+                "Carrots",
+                "Mushrooms",
+                "Peas",
+                "Potatoes",
+                "Artichokes",
+                "Beans",
+                "Cabbage",
+                "Cauliflower"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Herb Butters",
+                "Herbes de Provence",
+                "Marinades",
+                "Za'atar Spice Blend",
+                "Soft Cheese",
+                "Eggs",
+                "Cheese Spreads or Dips",
+                "Tomato Juice"
+            ],
+            "combinations": [
+                "Basil",
+                "Bay Leaf",
+                "Chives",
+                "Sumac",
+                "Cilantro",
+                "Garlic",
+                "Oregano",
+                "Mint",
+                "Parsley",
+                "Rosemary",
+                "Sage",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4541129f64a040412a",
+        "name": "Marjoram",
+        "description": "",
+        "img": "img/marjoram.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.501Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cake",
+                "Candy",
+                "Cookies",
+                "Rice",
+                "Quinoa"
+            ],
+            "meats": [
+                "Lamb",
+                "Burgers",
+                "Kabobs",
+                "Grilled meats"
+            ],
+            "seafood": [
+                "Sole",
+                "Sea Bass",
+                "Arctic Char",
+                "Orange Roughy"
+            ],
+            "vegetables": [
+                "Beans",
+                "Bean Salads",
+                "Tabbouleh Salad",
+                "Stuffed Grape Leaves",
+                "Tomatoes",
+                "Fatoosh Salad",
+                "Beets",
+                "Sugar Snap Peas",
+                "Cucumber",
+                "Zucchini",
+                "Carrots",
+                "Chopped Vegetable Salads",
+                "Peas",
+                "Fava Beans"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Jelly",
+                "Chutney",
+                "Fruit",
+                "Simple Syrup",
+                "Chocolate",
+                "Tea",
+                "Feta",
+                "Mint Julip",
+                "Yogurt Sauce",
+                "Fruit Salad",
+                "Mojito",
+                "Watermelon",
+                "Creamy Dressing"
+            ],
+            "combinations": [
+                "Basil",
+                "Lemon Balm",
+                "Nasturtium",
+                "Parsley",
+                "Tarragon",
+                "Watercress"
+            ]
+        },
+        "_id": "61043b4541129f64a040412d",
+        "name": "Mint",
+        "description": "",
+        "img": "img/mint.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.557Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Rye Bread"
+            ],
+            "meats": [
+                "Roast Beef",
+                "Rabbit",
+                "Sausages",
+                "Ham",
+                "Lamb",
+                "Roasted Meat",
+                "Corned Beef"
+            ],
+            "seafood": [
+                "seafood Boil",
+                "Fish Curry"
+            ],
+            "vegetables": [
+                "Cabbage",
+                "Pickles",
+                "Broccoli",
+                "Cauliflower",
+                "Lentils",
+                "Onions",
+                "Artichokes",
+                "Chard",
+                "Avocados",
+                "Tomatoes",
+                "Potatoes",
+                "Spinach",
+                "Stir-fry"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Honey",
+                "Brine",
+                "Glazes",
+                "Marinades",
+                "Champagne",
+                "Mustard Condiment",
+                "Curries",
+                "Pickled Mustard Seeds"
+            ],
+            "combinations": [
+                "Asafoetida",
+                "Bay Leaf",
+                "Basil",
+                "Chili",
+                "Caraway",
+                "Coriander",
+                "Curry Leaf",
+                "Cumin",
+                "Dill",
+                "Fennel",
+                "Fenugreek",
+                "Garlic",
+                "Parsley",
+                "Pepper",
+                "Tarragon",
+                "Turmeric"
+            ]
+        },
+        "_id": "61043b4541129f64a040412f",
+        "name": "Mustard Seed",
+        "description": "",
+        "img": "img/mustard-seed.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.562Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cakes",
+                "Cookies",
+                "Custards",
+                "Doughnuts",
+                "Pie"
+            ],
+            "meats": [
+                "Hamburger",
+                "Pork",
+                "Veal",
+                "Lamb",
+                "Sausages"
+            ],
+            "seafood": [
+                "seafood Chowder"
+            ],
+            "vegetables": [
+                "Carrots",
+                "Squash",
+                "Cabbage",
+                "Spinach",
+                "Sweet Potaotes",
+                "Carrots",
+                "Onions",
+                "Potatoes"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Cottage Cheese",
+                "Béchamel Sauce",
+                "Jerk Seasoning",
+                "Garam Masala",
+                "Eggnog",
+                "Dark Liquor Cocktails",
+                "Egg Salad",
+                "Fruit Salad",
+                "Waldorf Salad"
+            ],
+            "combinations": [
+                "Cardamom",
+                "Cinnamon",
+                "Cloves",
+                "Coriander",
+                "Cumin",
+                "Ginger",
+                "Mace",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4541129f64a0404131",
+        "name": "Nutmeg",
+        "description": "",
+        "img": "img/nutmeg.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.581Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads",
+                "Garlic Bread",
+                "Pizza",
+                "Stuffing",
+                "Pasta"
+            ],
+            "meats": [
+                "Grilled Meat",
+                "Hamburger",
+                "Beef",
+                "Meatloaf",
+                "Meatballs",
+                "Lamb",
+                "Roasts",
+                "Pork",
+                "Goat",
+                "Stew"
+            ],
+            "seafood": [
+                "Broiled Fish",
+                "Swordfish",
+                "Snapper",
+                "Shrimp",
+                "Cod",
+                "Mahi Mahi"
+            ],
+            "vegetables": [
+                "Broccoli",
+                "Cabbage",
+                "Cauliflower",
+                "Zucchini",
+                "Lentils",
+                "Tomato Sauces",
+                "Mushrooms",
+                "Tomatoes",
+                "Beans",
+                "Zucchini",
+                "Eggplant",
+                "Vegetable Soup"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Vegetable Juice",
+                "Za'atar Spice Blend",
+                "Chimichurri",
+                "Quiche",
+                "Herbes de Provence",
+                "Eggs",
+                "Cheese Spreads",
+                "Cream Sauces",
+                "Tomato Sauce",
+                "Vinegrettes",
+                "Marinades",
+                "Salad Dressing"
+            ],
+            "combinations": [
+                "Basil",
+                "Bay Leaf",
+                "Chives",
+                "Garlic",
+                "Marjoram",
+                "Mint",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4541129f64a0404133",
+        "name": "Oregano",
+        "description": "",
+        "img": "img/oregano.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.591Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Pasta"
+            ],
+            "meats": [
+                "Veal",
+                "Beef",
+                "Pork",
+                "Wild Game",
+                "Lamb",
+                "Kebabs",
+                "Sausages",
+                "Goulash"
+            ],
+            "seafood": [
+                "Fish",
+                "Shellfish",
+                "Tuna Salad"
+            ],
+            "vegetables": [
+                "Legumes",
+                "Most vegetables",
+                "Salads",
+                "Potato Salad"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "White Cheeses",
+                "Spice Rubs",
+                "Sour Cream",
+                "Deviled Eggs",
+                "Yogurt",
+                "Eggs",
+                "Marinades",
+                "Casseroles",
+                "Barbeque Sauce",
+                "Stews",
+                "Curries",
+                "Creamy Sauces",
+                "Soup"
+            ],
+            "combinations": [
+                "Allspice",
+                "Caraway",
+                "Cardamom",
+                "Garlic",
+                "Ginger",
+                "Oregano",
+                "Parsley",
+                "Pepper",
+                "Rosemary",
+                "Saffron",
+                "Thyme",
+                "Turmeric"
+            ]
+        },
+        "_id": "61043b4541129f64a0404135",
+        "name": "Paprika",
+        "description": "",
+        "img": "img/paprika.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:49.645Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Bulgar"
+            ],
+            "meats": [
+                "Any Meat"
+            ],
+            "seafood": [
+                "Fish",
+                "Shellfish"
+            ],
+            "vegetables": [
+                "Tabbouleh",
+                "Lentils",
+                "Tomatoes",
+                "Most vegetables"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Chimichurri",
+                "Bouquet Garni",
+                "Cheese"
+            ],
+            "combinations": [
+                "Anise",
+                "Caraway",
+                "Dill",
+                "Cilantro",
+                "Fennel",
+                "Basil",
+                "Celery Seed",
+                "Bay Leaf",
+                "Cumin",
+                "Chervil",
+                "Chili",
+                "Garlic",
+                "Lemon Balm",
+                "Sage",
+                "Thyme",
+                "Tarragon",
+                "Marjoram",
+                "Mint",
+                "Oregano",
+                "Rosemary",
+                "Sorrel",
+                "Sumac"
+            ]
+        },
+        "_id": "61043b4641129f64a040413c",
+        "name": "Parsley",
+        "description": "",
+        "img": "img/parsley.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.002Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Breads",
+                "Stuffing",
+                "Gnocchi",
+                "Pasta",
+                "Foccacia",
+                "Shortbreads"
+            ],
+            "meats": [
+                "Lamb",
+                "Pork Roast",
+                "Veal Roast",
+                "Braised Beef",
+                "Rib Roast",
+                "Grilled Meat"
+            ],
+            "seafood": [
+                "Broiled Salmon",
+                "Poached Fish",
+                "Halibut",
+                "Baked Fish",
+                "Shrimp",
+                "Lobster"
+            ],
+            "vegetables": [
+                "Cauliflower",
+                "Mushrooms",
+                "Peas",
+                "Potatoes",
+                "Spinach",
+                "Turnips",
+                "Sweet Potatoes"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Infused Olive Oil",
+                "Herbes de Provence",
+                "Citrus",
+                "Butter Compounds",
+                "Cheese Fondue",
+                "Lemon-Drop Cocktail",
+                "Herb Salt Blends",
+                "Tea",
+                "Lemonade"
+            ],
+            "combinations": [
+                "Bay Leaf",
+                "Garlic",
+                "Marjoram",
+                "Oregano",
+                "Parsley",
+                "Sage",
+                "Savory",
+                "Thyme"
+            ]
+        },
+        "_id": "61043b4641129f64a040413e",
+        "name": "Rosemary",
+        "description": "",
+        "img": "img/rosemary.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.065Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Risotto",
+                "Couscous",
+                "Cookies",
+                "Rice Pudding",
+                "Sweet Bread"
+            ],
+            "meats": [
+                "Lamb",
+                "Marrow",
+                "Lamb Tangine"
+            ],
+            "seafood": [
+                "Bouillabaisse(Seafood Stew)",
+                "Shellfish",
+                "Poached Fish",
+                "seafood Paella",
+                "seafood Boil"
+            ],
+            "vegetables": [
+                "Asparagus",
+                "Leeks",
+                "Mushrooms",
+                "Cauliflower",
+                "Onions",
+                "Spinach"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Vinegar",
+                "Vanilla",
+                "Jam",
+                "Eggs",
+                "Lassi",
+                "Lemonade",
+                "Citrus",
+                "Apples",
+                "Honey",
+                "Custard",
+                "Milk",
+                "Sherbert",
+                "Tea",
+                "Cream"
+            ],
+            "combinations": [
+                "Anise",
+                "Basil",
+                "Fennel",
+                "Ginger",
+                "Nutmeg",
+                "Paprika",
+                "Cilantro",
+                "Rosemary",
+                "Thyme",
+                "Cinnamon",
+                "Cardamom"
+            ]
+        },
+        "_id": "61043b4641129f64a0404140",
+        "name": "Saffron",
+        "description": "",
+        "img": "img/saffron2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.081Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing"
+            ],
+            "meats": [
+                "Beef",
+                "Roasts",
+                "Hamburgers",
+                "Meatloaf",
+                "Spareribs",
+                "Rabbit"
+            ],
+            "seafood": [
+                "Broiled Fish",
+                "Mackerel",
+                "Eel",
+                "Trout",
+                "Sole",
+                "Flounder"
+            ],
+            "vegetables": [
+                "Artichokes",
+                "Beets",
+                "Turnips",
+                "Beans",
+                "Cabbage",
+                "Onions",
+                "Carrots",
+                "Potatoes",
+                "Sauerkraut",
+                "Tomatoes",
+                "Mushrooms",
+                "Root vegetables",
+                "Peas"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Herbed Butters",
+                "Herbes de Provence",
+                "Potato Salad",
+                "Deviled Eggs",
+                "Stews",
+                "Broth",
+                "Marinades",
+                "Tomato Sauce"
+            ],
+            "combinations": [
+                "Basil",
+                "Bay Leaf",
+                "Garlic",
+                "Marjoram",
+                "Oregano",
+                "Parsley",
+                "Rosemary",
+                "Sage",
+                "Tarragon",
+                "Thyme",
+                "Cumin",
+                "Mint"
+            ]
+        },
+        "_id": "61043b4641129f64a0404142",
+        "name": "Savory",
+        "description": "",
+        "img": "img/savory.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.086Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing",
+                "Polenta"
+            ],
+            "meats": [
+                "Pork",
+                "Sausage",
+                "Veal"
+            ],
+            "seafood": [
+                "Baked Fish",
+                "Chowder",
+                "Lobster",
+                "Salmon",
+                "Sword Fish",
+                "Tilapia",
+                "Sea Bass",
+                "Trout",
+                "Flounder"
+            ],
+            "vegetables": [
+                "Roasted Root vegetables",
+                "White Beans",
+                "Onion",
+                "Pumpkin Soup"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Citrus Marinade",
+                "Butter and Garlic Compounds",
+                "Mild Creamy Cheese",
+                "Pineapple",
+                "Chicken Pot Pie"
+            ],
+            "combinations": [
+                "Rosemary",
+                "Bay Leaf",
+                "Thyme",
+                "Marjoram",
+                "Oregano"
+            ]
+        },
+        "_id": "61043b4641129f64a0404145",
+        "name": "Sage",
+        "description": "",
+        "img":"img/sage2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.097Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Couscous",
+                "Pasta"
+            ],
+            "meats": [
+                "Bacon",
+                "Ribs",
+                "Veal",
+                "Lamb",
+                "Steak",
+                "Pork",
+                "Ham"
+            ],
+            "seafood": [
+                "Fatty Fish",
+                "Scallops",
+                "Bass",
+                "Lobster",
+                "Flounder",
+                "Halibut",
+                "Sole",
+                "Turbot",
+                "Crab"
+            ],
+            "vegetables": [
+                "Potatoes",
+                "Lentils",
+                "Beans",
+                "Jerusalem Artichoke",
+                "Chard",
+                "Spinach",
+                "Kale",
+                "Mushroom",
+                "Squash",
+                "Turnips",
+                "Brussel Sprouts",
+                "Carrots",
+                "Salad",
+                "Asparagus",
+                "Peas",
+                "Watercress",
+                "Nettles",
+                "Avocado"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Eggs",
+                "Goat Cheese",
+                "Soups",
+                "Brie",
+                "Cream Cheese",
+                "Gruyere"
+            ],
+            "combinations": [
+                "Basil",
+                "Chives",
+                "Dill",
+                "Fennel",
+                "Garlic",
+                "Parsley",
+                "Tarragon"
+            ]
+        },
+        "_id": "61043b4641129f64a0404147",
+        "name": "Sorrel",
+        "description": "",
+        "img": "img/sorrel.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.218Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice"
+            ],
+            "meats": [
+                "Beef",
+                "Grilled Lamb"
+            ],
+            "seafood": [
+                "Grilled Fish",
+                "Baked Fish",
+                "Salmon",
+                "Red Snapper",
+                "Sea Bass",
+                "Prawns"
+            ],
+            "vegetables": [
+                "Fattoush Salad",
+                "Hummus",
+                "Baba Ghanouj",
+                "Brussel Sprouts",
+                "Asparagus",
+                "Cauliflower",
+                "Eggplant",
+                "Tomatoes",
+                "Onions",
+                "Cucumber"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Za'atar Spice Blend",
+                "Dry Rubs",
+                "Marinades",
+                "Feta Cheese",
+                "Salad Dressing",
+                "Haloumi Cheese",
+                "Yogurt",
+                "Labne(Kefir Cheese)"
+            ],
+            "combinations": [
+                "Chili",
+                "Allspice",
+                "Coriander",
+                "Cumin",
+                "Fennel",
+                "Marjoram",
+                "Paprika",
+                "Thyme",
+                "Parsley",
+                "Oregano",
+                "Mint"
+            ]
+        },
+        "_id": "61043b4641129f64a040414d",
+        "name": "Sumac",
+        "description": "",
+        "img": "img/sumac.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.511Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Gingerbread",
+                "Pumpkin Pie",
+                "Cookies",
+                "Biryani"
+            ],
+            "meats": [
+                "Pork",
+                "Fatty Meat",
+                "Braised Meat",
+                "Rabbit"
+            ],
+            "seafood": [
+                "Fishes",
+                "Rainbow Trout",
+                "Smoked Fish"
+            ],
+            "vegetables": [
+                "Root vegetables",
+                "Hard Squashes",
+                "Tomatoes",
+                "Pickles"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Garam Masala",
+                "Citrus Fruit",
+                "Spiced Chai",
+                "Coffee",
+                "Jams",
+                "Mulled Wine",
+                "Cider",
+                "Chinese Five Spice",
+                "Pho",
+                "Figs",
+                "Tropical Fruit",
+                "Vinegrettes"
+            ],
+            "combinations": [
+                "Chili",
+                "Cinnamon",
+                "Coriander",
+                "Fennel Seed",
+                "Garlic",
+                "Ginger",
+                "Sichuan Peppercorns",
+                "Lemongrass"
+            ]
+        },
+        "_id": "61043b4641129f64a0404150",
+        "name": "Star Anise",
+        "description": "",
+        "img": "img/anise2.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.566Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Rice",
+                "Noodles"
+            ],
+            "meats": [
+                "Burgers",
+                "Meatballs",
+                "Spare Ribs",
+                "Szechaun Beef",
+                "Lamb",
+                "Braised Pork",
+                "Wild Game",
+                "Braised Lamb"
+            ],
+            "seafood": [
+                "Shrimp",
+                "Salmon",
+                "Seared Tuna"
+            ],
+            "vegetables": [
+                "Fermented Bean Paste",
+                "Carrots",
+                "Mapo Tofu",
+                "Stir Fries",
+                "Green Beans"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Chinese Five Spice",
+                "Shichimi Togarashi",
+                "Chili Oil",
+                "Dan Dan Noodles",
+                "Spice Rub",
+                "Soup",
+                "Marinades"
+            ],
+            "combinations": [
+                "Chili",
+                "Cumin",
+                "Cinnamon",
+                "Fennel Seed",
+                "Star Anise",
+                "Cloves"
+            ]
+        },
+        "_id": "61043b4641129f64a0404152",
+        "name": "Sichuan Peppercorns",
+        "description": "",
+        "img": "img/sichuan-pepper.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.592Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Stuffing"
+            ],
+            "meats": [
+                "Liver Pate",
+                "Meatballs",
+                "Meatloaf",
+                "Roasts",
+                "Stews",
+                "Pork Loin",
+                "Short Ribs",
+                "Lamb Chops"
+            ],
+            "seafood": [
+                "Crab Meat",
+                "Lobster",
+                "Scallops",
+                "Shrimp",
+                "Tuna"
+            ],
+            "vegetables": [
+                "Asparagus",
+                "Beans",
+                "Carrots",
+                "Mushrooms",
+                "Tomatoes",
+                "Zucchini",
+                "Yellow Squash",
+                "Mashed Potatoes",
+                "Roasted Carrots",
+                "Butternut Squash"
+            ],
+            "beverages": [],
+            "soups": [],
+            "desserts": [],
+            "miscellaneous": [
+                "Coleslaw",
+                "Za'atar Spice Blend",
+                "Jerk Seasoning",
+                "seafood Cocktails",
+                "Herbes de Provence",
+                "seafood Salad",
+                "Tomato Juice",
+                "Gumbo",
+                "Chicken Noodle Soup",
+                "Chicken Pot Pie"
+            ],
+            "combinations": [
+                "Basil",
+                "Fennel",
+                "Dill",
+                "Mint",
+                "Thyme",
+                "Savory",
+                "Garlic"
+            ]
+        },
+        "_id": "61043b4641129f64a0404156",
+        "name": "Thyme",
+        "description": "",
+        "img": "img/thyme.jpg",
+        "origin": "",
+        "date": "2021-07-30T17:47:50.609Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "rice, grains "
+            ],
+            "meats": [
+                "chicken, turkey,  fish, "
+            ],
+            "seafood": [
+                ""
+            ],
+            "vegetables": [
+                "beans, okra, plantains, tomatoes, pumpkin, peppers, sweet potatoes"
+            ],
+            "beverages": [
+                ""
+            ],
+            "soups": [
+                "stew, broth"
+            ],
+            "desserts": [],
+            "miscellaneous": [
+                "oil"
+            ],
+            "combinations": [
+                ""
+            ]
+        },
+        "_id": "610849394e8f446b0047e938",
+        "name": "Annatto Seeds",
+        "other": "Achiote seeds",
+        "description": "Bitter or Astringent, Warm & Earthy",
+        "img": "img/annatto.jpg",
+        "cuisines": "Caribbean, Latin American, Mexican",
+        "origin": "peru",
+        "substitutes": "",
+        "date": "2021-08-02T19:36:25.066Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                ""
+            ],
+            "meats": [
+                ""
+            ],
+            "seafood": [
+                ""
+            ],
+            "vegetables": [
+                ""
+            ],
+            "beverages": [
+                ""
+            ],
+            "soups": [
+                ""
+            ],
+            "desserts": [
+                ""
+            ],
+            "miscellaneous": [
+                ""
+            ],
+            "combinations": [
+                ""
+            ]
+        },
+        "_id": "61098ce59edfa84a7c4d33b3",
+        "name": "Example",
+        "other": "pimenta, Jamaica pepper, Turkish yenibahar, or newspice",
+        "description": "Sweet",
+        "img": "img/annatto.jpg",
+        "cuisines": "Greek, Italian, Mediterranean, Mexican, Spanish, Tex-Mex, Turkish",
+        "origin": "Turkey",
+        "date": "2021-08-03T18:37:25.961Z",
+        "__v": 0
+    },
+    {
+        "categories": {
+            "grains": [
+                "Cookies,Pie,Pudding,Spice Cake,Rice Pilaf, ginger bread"
+            ],
+            "meats": [
+                ""
+            ],
+            "seafood": [
+                ""
+            ],
+            "vegetables": [
+                ""
+            ],
+            "beverages": [
+                ""
+            ],
+            "soups": [
+                ""
+            ],
+            "desserts": [
+                ""
+            ],
+            "miscellaneous": [
+                ""
+            ],
+            "combinations": [
+                ""
+            ]
+        },
+        "_id": "61099289890f5002d4a206b4",
+        "name": "Example99",
+        "other": "",
+        "description": "",
+        "cuisines": "",
+        "origin": "",
+        "substitutes": "",
+        "date": "2021-08-03T19:01:29.652Z",
+        "__v": 0
+    }
+]
