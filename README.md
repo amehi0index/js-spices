@@ -2,7 +2,7 @@
 
 ![Project Image](spices.png)
 
-> Herb and Spice Finder Application built with Vanilla JS, HTML5, and CSS3. Utilizes a proxy server to handle requests to third party API.
+> Herb and Spice Finder Application built with Vanilla JS, HTML5, CSS3, and Node.js.
 
 ---
 
@@ -17,14 +17,14 @@
 
 ## Description
 
-This Application allows a user to search for an herb or spice by name and to match that particular herb or spice with a complentary food or recipe. This version utilizes JSON to store application data, local storage to hold a user search query, and the Edamame API to fetch recipe queries. The proxy server hides the API Keys and handles requests to the third party API.
+This Application allows a user to search for an herb or spice by name and to match that particular herb or spice with a complentary food or recipe. This version utilizes JSON to store application data, local storage to hold a user search query, and the Edamam API to fetch recipe queries. The proxy server hides the API Keys and handles requests to the third party API.
 
 #### Technologies
 
 - Javascript
 - HTML5
 - CSS3
-- Node
+- Node.js
 - Express
 - JSON
 
