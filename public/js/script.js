@@ -11,7 +11,7 @@ const searchIconBtn = document.querySelector('.search-icon-btn')
 const inputSpan = document.querySelector('.input-span')
 const herbList = document.querySelector('.herb-list')
 const card = document.querySelector('.card')
-const loader = document.querySelector('.loader-container')
+const loaderContainer = document.querySelector('.loader-container')
 
 let herbs = []
 let isEnter = false
@@ -23,7 +23,7 @@ getData()
 
 document.addEventListener('DOMContentLoaded', function () {
 
-    loader.classList.add('finish')
+    loaderContainer.classList.add('finish')
 
     expandSearchBtn.addEventListener('click', expandInput)
     
