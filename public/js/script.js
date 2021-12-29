@@ -21,17 +21,22 @@ let foodInfoIsShow = false
 
 getData()
 
-document.addEventListener('DOMContentLoaded', function () {
+//Preloader
+document.onreadystatechange = function() {
+    if (document.readyState == "complete") {
+        loaderContainer.classList.add('finish')
+        document.querySelector("body").style.visibility = "visible";
+    } else {
+        document.querySelector("body").style.visibility = "hidden";
+        loaderContainer.classList.remove('finish')
+    }
+}
 
-    loaderContainer.classList.add('finish')
-
-    expandSearchBtn.addEventListener('click', expandInput)
-    
-    homeBtn.addEventListener('click', goHome)
-
-    input.addEventListener('input', (event) => getMatches(event.target.value))
-
-    input.addEventListener('keydown', (event) => {
+//Event Listeners
+expandSearchBtn.addEventListener('click', expandInput)
+homeBtn.addEventListener('click', goHome)
+input.addEventListener('input', (event) => getMatches(event.target.value))
+input.addEventListener('keydown', (event) => {
 
         if (event.code === 'Enter') {
             const value = event.target.value
@@ -48,9 +53,9 @@ document.addEventListener('DOMContentLoaded', function () {
         } 
     })
 
-    input.addEventListener('blur', ()=> scrollHerbList(herbList))
-})
+input.addEventListener('blur', ()=> scrollHerbList(herbList))
 
+//Get data
 async function getData() {
     const res = await fetch('../data/herblist.json')
     const data = await res.json()
