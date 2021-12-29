@@ -26,6 +26,8 @@ body {
   justify-content: center;
   align-items: center;
   z-index: 100;
+  opacity: 1;
+  transition: all 5s ease 5s;
 }
 
 .loader {
@@ -38,7 +40,8 @@ body {
 }
 
 .loader-container.finish {
-  display: none;
+  opacity: 0.1;
+  /*display: none;*/
 }
 
 .container {
