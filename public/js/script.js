@@ -25,9 +25,9 @@ getData()
 document.onreadystatechange = function() {
     if (document.readyState == "complete") {
         loaderContainer.classList.add('finish')
-        document.querySelector("body").style.visibility = "visible";
+        document.querySelector("body").style.visibility = "visible"
     } else {
-        document.querySelector("body").style.visibility = "hidden";
+        document.querySelector("body").style.visibility = "hidden"
         loaderContainer.classList.remove('finish')
     }
 }
