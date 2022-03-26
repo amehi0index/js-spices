@@ -98,11 +98,11 @@ function expandInput() {
 
     welcome.classList.add('hide-welcome')
 
-    expandSearchBtn.style.background = 'transparent'//
+    expandSearchBtn.style.background = 'transparent'
 
     setTimeout(() => {
-        searchToBackBtn.innerHTML = 'back'//
-        homeBtn.style.background = 'transparent'//
+        searchToBackBtn.innerHTML = 'back'
+        homeBtn.style.background = 'transparent'
         inputSpan.classList.add('show')
         input.classList.add('slide')
 
